@@ -1,0 +1,8 @@
+D:\Python Projects Local\VideoSplitter Tool V1
+
+This tool is use to split long video into short for every minute or second that set.
+
+1. Interface
+2. option to copy all file in Assets to drive c:\VideoSplitter
+3. auto set system envaronment 
+(system variable >edit (Path)> Add New>Like: c:\VideoSplitter)
